@@ -1,17 +1,16 @@
 # Neural Machine Translation Web Application
 
+## Info
+
+This repo contains the web application for my CSCI-659 final project, a neural machine translation system that translates English into French, featuring three translation models:
+
+- **BART**: A fine-tuned BART-base model for English-French translation
+- **Googletrans**: Free and open-source Python library for Google Translate
+- **Seq2Seq**: Custom sequence-to-sequence model with attention mechanism
+
 ## Demo
 
 https://github.com/user-attachments/assets/2f2f4547-69eb-4691-9fea-edc64278262e
-
-
-## Info
-
-A modern web application that demonstrates and compares different approaches to neural machine translation (NMT) for English to French translation, featuring three translation models:
-
-- **BART**: A fine-tuned BART model for English-French translation
-- **Googletrans**: Free and open-source Python library for Google Translate
-- **Seq2Seq**: Custom sequence-to-sequence model with attention mechanism
 
 ## Project Overview
 
