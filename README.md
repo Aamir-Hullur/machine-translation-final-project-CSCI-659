@@ -23,11 +23,6 @@ This project implements a custom neural machine translation system with a modern
 
 ```mermaid
 flowchart TD
-    classDef frontendStyle fill:#f9f0ff,stroke:#9558B2,stroke-width:2px
-    classDef backendStyle fill:#e6f7ff,stroke:#1890ff,stroke-width:2px
-    classDef modelStyle fill:#f6ffed,stroke:#52c41a,stroke-width:2px
-    classDef utilStyle fill:#fff2e8,stroke:#fa8c16,stroke-width:2px
-
     User((User)):::utilStyle
     
     subgraph Frontend["Frontend (React)"]
