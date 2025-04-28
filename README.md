@@ -1,5 +1,12 @@
 # Neural Machine Translation Web Application
 
+## Demo
+
+https://github.com/user-attachments/assets/1591a136-1fef-4120-8c02-3c929e19bc14
+
+
+## Info
+
 A modern web application that demonstrates and compares different approaches to neural machine translation (NMT) for English to French translation, featuring three translation models:
 
 - **BART**: A fine-tuned BART model for English-French translation
