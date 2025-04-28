@@ -1,0 +1,10 @@
+fastapi
+uvicorn 
+pydantic
+torch
+transformers
+googletrans
+requests
+nltk
+pyngrok
+slowapi
